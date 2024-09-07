@@ -23,8 +23,7 @@ To get started with this project, you need to have [Poetry](https://python-poetr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/haystack-data-engineering.git
-   cd haystack-data-engineering
+   git clone https://github.com/elklaatu/haystack.git
 
 ### Install dependencies:
 
