@@ -11,7 +11,7 @@ TO BE ADDED
 - Ingest and index documents.
 - Store and manage embeddings `InMemory()`.
 - Query documents and call LLMs to retrieve insightful responses based on user input.
-- Simple Gradio Inte
+- Simple Gradio Interface - Bugged
 
 ## Installation
 To get started with this project, you need to have [Poetry](https://python-poetry.org/) installed on your machine. Follow these steps:
