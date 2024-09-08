@@ -1,7 +1,7 @@
-# Haystack Data Engineering Project
+# Haystack Library Exploration
 
 ## Overview
-This project demonstrates the implementation of Data Engineering techniques using **Haystack**, a powerful framework for building search systems and applications powered by natural language processing (NLP) techniques. It focuses on vector database management and leveraging Large Language Models (LLMs) to enhance the understanding and retrieval of data.
+This project demonstrates the implementation of Data Engineering techniques using **Haystack**, a powerful framework for building search systems and applications powered by LLMs. It focuses on retrieval augmented generation and other tools such as routing and self-reflections to enhance the understanding and retrieval of data.
 
 ## Table of Contents
 
