@@ -1,7 +1,7 @@
 # Haystack Exploration
 
 ## Description
-This project explores the capabilities of Haystack, focusing on building robust NLP pipelines. Version control and dependency management are handled using Poetry.
+This project explores the capabilities of Haystack, focusing on building robust NLP pipelines. Version control and dependency management are handled using Poetry based on their DeepLearning.AI course.
 
 ## Repository Structure
 - **data/**: Source texts for document indexing and processing.
