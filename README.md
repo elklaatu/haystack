@@ -25,6 +25,8 @@ This project explores the capabilities of Haystack, focusing on building robust 
    poetry install --no-root
 ## Usage
 - Open and execute the notebooks in a Jupyter environment.
+  ```bash
+   poetry run jupyter lab --no-browser
 - Follow the instructions in each notebook to replicate the experiments and analyses.
 
 ## Contributing
